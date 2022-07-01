@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: false,
+  peliculasApi: "https://localhost:7115/api"
 };
